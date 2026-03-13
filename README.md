@@ -21,7 +21,7 @@
 - **Co-Founder & CTO** at [DravTech IT Solutions](https://github.com/DRAVIS55)
 - Building **AI-driven automation** and intelligent scheduling systems
 - Advancing expertise in **Cybersecurity & Ethical Hacking**
-- Exploring **Blockchain Architecture** and Web3 development
+- Exploring **Blockchain Architecture**, Web3, and Quantitative Finance
 - Based in **Nairobi, Kenya**
 
 ---
@@ -95,6 +95,25 @@ Smart house hunting for students. Heuristic algorithms match users to best-fit a
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Maps](https://img.shields.io/badge/Maps_API-34A853?style=flat-square&logo=googlemaps&logoColor=white)
 ![3D](https://img.shields.io/badge/3D_Integration-4B9EF4?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🔗 [Attachment Assistant](https://dravtechattachmentassistant.pythonanywhere.com/)**
+
+Helps students find industrial attachment and internship opportunities by scraping listings daily and maintaining a curated opportunity database. Prioritises and ranks openings for the student's profile. Integrates email configuration to send applications directly to company emails from within the platform.
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-F97316?style=flat-square)
+![Email](https://img.shields.io/badge/Email_Integration-EA4335?style=flat-square&logo=gmail&logoColor=white)
+![AI](https://img.shields.io/badge/AI_Curation-00D4FF?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+&nbsp;
 
 </td>
 </tr>
@@ -182,6 +201,71 @@ Aggregates political news from across the web, groups stories by topic, and pres
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Scraping](https://img.shields.io/badge/Web_Scraping-F97316?style=flat-square)
 ![REST](https://img.shields.io/badge/REST_APIs-555?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🏗️ Engineering & Industrial Systems
+
+![Category](https://img.shields.io/badge/Category-Engineering%20%26%20Industry-64748B?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Live%20%7C%20Migrating%20to%20Java-F59E0B?style=flat-square)
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🏗️ [Construction Management System](https://projectteam2025.pythonanywhere.com/)**
+
+End-to-end construction operations management. Integrates IoT sensors and AI/ML for efficient material cost utilisation, structural standard compliance checks, and onsite verification. Features real-time graphs, predictive analytics on project progress, and live operational updates. Originally built in Django — currently migrating to **Java** for enterprise-grade performance.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Django](https://img.shields.io/badge/Django_(legacy)-092E20?style=flat-square&logo=django&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT_Integration-0EA5E9?style=flat-square)
+![AI/ML](https://img.shields.io/badge/AI%2FML-00D4FF?style=flat-square)
+![Realtime](https://img.shields.io/badge/Real--time_Analytics-10B981?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+&nbsp;
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📈 Finance & Quantitative Systems
+
+![Category](https://img.shields.io/badge/Category-Fintech%20%26%20Quant-6366F1?style=flat-square)
+![Status](https://img.shields.io/badge/Status-In%20Development%20%7C%20Training-F59E0B?style=flat-square)
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**💱 Forex Predictor & Quant Engine** *(in development)*
+
+A forex market intelligence system combining real-time data crawling, quantitative analysis, and a custom ML model being trained to predict currency market movements. Integrates algorithmic trading logic and quant strategies to surface high-probability opportunities. Built for accuracy, speed, and signal reliability.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ML](https://img.shields.io/badge/ML_Model_Training-00D4FF?style=flat-square)
+![Quant](https://img.shields.io/badge/Quantitative_Finance-6366F1?style=flat-square)
+![Scraping](https://img.shields.io/badge/Market_Data_Crawling-F97316?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+**💱 [Java Currency Converter & Predictor](https://github.com/DRAVIS55)**
+
+Real-time currency converter with predictive analytics based on global market trends. Achieves **54% forecasting accuracy** using ML algorithms and live financial API feeds.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![ML](https://img.shields.io/badge/ML_Algorithms-00D4FF?style=flat-square)
+![Finance](https://img.shields.io/badge/Financial_APIs-10B981?style=flat-square)
 
 </td>
 </tr>
@@ -322,11 +406,13 @@ Rebuilt from a static site to a dynamic CMS, enabling staff to manage and update
 
 ```python
 focus = {
-    "Cybersecurity":  "Advancing ethical hacking & system security",
-    "AI/ML":          "Deeper neural network architectures",
-    "Fintech":        "Scalable Loan Management System (Django + Chart.js)",
-    "Blockchain":     "Smart contract architecture & Web3 patterns",
-    "DravTech":       "Scaling products to serve 500+ active users",
+    "Cybersecurity":      "Advancing ethical hacking & system security",
+    "AI/ML":              "Deeper neural network architectures",
+    "Fintech":            "Scalable Loan Management System (Django + Chart.js)",
+    "Quant Finance":      "Training ML model for forex market prediction",
+    "Blockchain":         "Smart contract architecture & Web3 patterns",
+    "DravTech":           "Scaling products to serve 500+ active users",
+    "Construction ERP":   "Migrating construction system to Java for enterprise scale",
 }
 ```
 
