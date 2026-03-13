@@ -1,18 +1,15 @@
-# Hi, I'm Samuel Kibunja Macharia (a.k.a. DRAVIS55)
-
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════╗
-║   "Code, Innovate, Secure."                              ║
-╚══════════════════════════════════════════════════════════╝
-```
+<!--  HERO BANNER — animated typing  -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=30&lines=Full-Stack+Developer+%7C+Django+%2B+Next.js;AI+%26+Systems+Specialist+%7C+Nairobi%2C+Kenya;Cybersecurity+Enthusiast+%7C+Co-Founder+%40+DravTech;Building+Scalable+Intelligent+Systems)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+Django+%2B+Next.js;AI+%26+Systems+Specialist;Cybersecurity+Enthusiast;Building+Scalable+Intelligent+Systems)](https://git.io/typing-svg)
+# Samuel Kibunja Macharia
+### `DRAVIS55`
 
 [![GitHub followers](https://img.shields.io/github/followers/DRAVIS55?label=Follow&style=social)](https://github.com/DRAVIS55)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/samuelkibunja/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter)](https://x.com/samuelkibu87288)
+[![Profile Views](https://komarev.com/ghpvc/?username=DRAVIS55&color=00d4ff&style=flat-square&label=Profile+Views)](https://github.com/DRAVIS55)
 
 </div>
 
@@ -27,6 +24,18 @@
 - Advancing expertise in **Cybersecurity & Ethical Hacking**
 - Exploring **Blockchain Architecture** and Web3 development
 - Based in **Nairobi, Kenya**
+
+---
+
+## Timeline
+
+| Period | Role | Organisation |
+|--------|------|--------------|
+| Sep 2025 – Dec 2025 | System Developer | Dravtech / TISC Incubation |
+| Sep 2025 – Present | Co-Founder & CTO | DravTech IT Solutions |
+| Sep 2025 – Dec 2025 | Web & System Administrator | Grassroot Development Kenya |
+| Jan 2025 – Nov 2025 | Call Agent | Kenya Private Sector Alliance |
+| Apr 2024 – Dec 2024 | Data Verifier | Kenya Private Sector Alliance |
 
 ---
 
@@ -71,14 +80,14 @@
 
 ## Featured Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **[Chuka AutoScheduler](https://github.com/DRAVIS55)** | AI-driven timetabling — **0% conflicts**, **5ms** response time | Django · Python · AI Algorithms |
-| **Dravsech SACCO System** | Financial management with loan processing & real-time analytics | Django · MySQL · React · REST APIs |
-| **Grassroot Development Kenya** | Multi-channel donation platform (PayPal, M-Pesa, Blockchain) | Django · React · Sui Blockchain |
-| **AI-Powered News Hub** | News aggregation with AI-based content explanations | React · AI APIs |
-| **Construction Management System** | Global workforce marketplace with real-time site monitoring | Django · WebSocket |
-| **Java Currency Predictor** | Real-time converter with **54% forecasting accuracy** | Java · ML Algorithms |
+| Project | Description | Stack | Highlight |
+|---------|-------------|-------|-----------|
+| **[Chuka AutoScheduler](https://github.com/DRAVIS55)** | AI-driven automated class scheduling | Django · Python · AI Algorithms | 0% conflicts · 5ms response |
+| **Dravsech SACCO System** | Loan processing & real-time financial analytics | Django · MySQL · React · REST APIs | Full financial lifecycle |
+| **Grassroot Development Kenya** | Multi-channel donation platform | Django · React · Sui Blockchain | PayPal · M-Pesa · Blockchain |
+| **AI-Powered News Hub** | News aggregation with AI explanations | React · AI APIs | Multi-source aggregation |
+| **Construction Management System** | Global workforce marketplace | Django · WebSocket | Real-time site monitoring |
+| **Java Currency Predictor** | Real-time converter with forecasting | Java · ML Algorithms | 54% forecast accuracy |
 
 ---
 
@@ -138,8 +147,6 @@ focus = {
 ---
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=DRAVIS55&color=00d4ff&style=flat-square&label=Profile+Views)
 
 **"Code, Innovate, Secure."**
 
