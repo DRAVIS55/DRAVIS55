@@ -1,6 +1,5 @@
 <div align="center">
 
-<!--  HERO BANNER — animated typing  -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=30&lines=Full-Stack+Developer+%7C+Django+%2B+Next.js;AI+%26+Systems+Specialist+%7C+Nairobi%2C+Kenya;Cybersecurity+Enthusiast+%7C+Co-Founder+%40+DravTech;Building+Scalable+Intelligent+Systems)](https://git.io/typing-svg)
 
 # Samuel Kibunja Macharia
@@ -31,11 +30,123 @@
 
 | Period | Role | Organisation |
 |--------|------|--------------|
-| Sep 2025 – Dec 2025 | System Developer | Dravtech / TISC Incubation |
 | Sep 2025 – Present | Co-Founder & CTO | DravTech IT Solutions |
+| Sep 2025 – Dec 2025 | System Developer | Dravtech / TISC Incubation |
 | Sep 2025 – Dec 2025 | Web & System Administrator | Grassroot Development Kenya |
 | Jan 2025 – Nov 2025 | Call Agent | Kenya Private Sector Alliance |
 | Apr 2024 – Dec 2024 | Data Verifier | Kenya Private Sector Alliance |
+
+---
+
+## Projects
+
+> All systems are live and in active iteration — features are continuously being designed, refined, and shipped.
+
+### University & Campus Systems
+
+**[Chuka University Timetabling System](https://chukauniversitytimetabling.pythonanywhere.com/)**
+AI-driven automated class scheduling system built for Chuka University. Uses constraint-based algorithms to achieve 0% timetable conflicts. Reduced scheduling time from 3–5 hours of manual work to under 10 seconds, with backend response time cut from ~1000ms to 5ms. Serves 500+ active users.
+`Django` `Python` `AI Scheduling Algorithms` `REST APIs`
+
+---
+
+**[MultApp — Campus Super App](https://samuelkibunja.pythonanywhere.com/)**
+A unified campus resource platform giving students access to class timetables, exam timetables, notes, and interactive tools. Integrates mess menus, food schedules, religion content, and local university music via **Comrade Corner** — a dedicated space for campus culture and entertainment. Designed as a single hub for the full student experience.
+`Django` `Python` `REST APIs` `JavaScript`
+
+---
+
+**[Afya Wise Connect](https://afya-wise-connect.vercel.app/)**
+Mental health and radio integration platform partnered with Chuka Radio. Uses AI to explain health content to users based on their individual learning patterns and cognitive capability. Includes an emergency integration with Chuka University Dispensary and a BOLT-powered session preview feature. Designed to bridge the gap between mental health awareness and accessibility.
+`Django` `AI/ML` `BOLT` `Vercel` `Emergency Systems Integration`
+
+---
+
+**[Hostel Finder](https://samuelkibunja.pythonanywhere.com/hostels/)**
+Simplifies house hunting for students near university. Uses sophisticated heuristic algorithms to help users identify the best-fit accommodation based on preference and proximity. Integrates maps and 3D directional views to guide users from campus to the hostel.
+`Django` `Heuristic Algorithms` `Maps API` `3D Integration`
+
+---
+
+### Communication & Community Systems
+
+**[UniChat](https://samuelkibunja.pythonanywhere.com/chat/)**
+A secure, fast, and stable messaging platform for intra- and inter-university communication. Supports document sharing of all sizes, group creation, and polls. Built for scale — any university or institution can join and interact in one unified space.
+`Django` `WebSocket` `Real-time Messaging` `Document Handling`
+
+---
+
+**[Confession & Guidance System](https://samuelkibunja.pythonanywhere.com/confessions/)**
+An anonymous platform that allows users to confess and receive professional guidance, mentorship, and rehabilitation support. User identity is fully anonymised by default unless they choose to disclose. Users can interact with counsellors, exchange verified contacts, and build support connections within the platform.
+`Django` `Anonymisation` `Counsellor Integration` `REST APIs`
+
+---
+
+**[Religion Connect](https://samuelkibunja.pythonanywhere.com/religion/)**
+An interdenominational platform where communities from all religions can upload and read content, plan events, schedule prayers and meetings, and share teachings. All major and minor religions are accommodated in one unified space.
+`Django` `Content Management` `Event Scheduling`
+
+---
+
+### News, Politics & Civic Tools
+
+**[NewsHub KE](https://newshubke.pythonanywhere.com/)**
+AI-powered news aggregation platform that scrapes news from multiple sources and relates them intelligently. Users can interact with past and current news, the system generates video summaries for a topic, builds news history timelines, and creates synthesised real-news narratives. An ML component continuously learns user behaviour to improve relevance.
+`React` `Django` `AI APIs` `Web Scraping` `ML` `Video Generation`
+
+---
+
+**[Politics Pulse](https://samuelkibunja.pythonanywhere.com/politics/)**
+Aggregates political news from across the web, groups them by topic, and presents them in one readable, interactive feed. Users can read and engage with grouped stories for a clearer picture of the political landscape.
+`Django` `Web Scraping` `Content Grouping` `REST APIs`
+
+---
+
+### Marketplace & Commerce
+
+**[Campus Marketplace](https://samuelkibunja.pythonanywhere.com/marketplace/)**
+A second-hand marketplace for students and community members. Sellers upload goods which are verified by a sophisticated algorithm before listing. Items are well-grouped by category and the platform is optimised for a clean, intuitive user experience.
+`Django` `Verification Algorithms` `REST APIs` `JavaScript`
+
+---
+
+**[Grassroot Development Kenya](https://glassgrow.pythonanywhere.com/)**
+Web information system for an NGO with a multi-channel donation platform supporting PayPal, M-Pesa, card payments, and Sui Blockchain. Includes real-time content management and is hosted on PythonAnywhere.
+`Django` `React` `PayPal API` `M-Pesa API` `Sui Blockchain`
+
+---
+
+### Client & Commercial Projects
+
+**[Hope and Home KE](http://www.hopeandhomeke.com)**
+E-commerce website built for a retail shop to establish their online presence and reach customers across the internet.
+`Django` `E-commerce` `JavaScript`
+
+---
+
+**Soyanala Solar Marketplace**
+Online marketplace built for a solar energy company, enabling customers to browse, compare, and purchase solar products directly from the platform.
+`Django` `Product Catalogue` `REST APIs`
+
+---
+
+**[Lowands Hotel](http://lowandshotel.com)**
+Hotel website rebuilt from a static site into a dynamic content management system, allowing staff to upload and update content independently without developer intervention.
+`Django` `CMS` `Dynamic Content`
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DRAVIS55&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DRAVIS55&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DRAVIS55&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
@@ -75,33 +186,6 @@
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
 ![Sui](https://img.shields.io/badge/Sui_Blockchain-4B9EF4?style=for-the-badge&logo=sui&logoColor=white)
-
----
-
-## Featured Projects
-
-| Project | Description | Stack | Highlight |
-|---------|-------------|-------|-----------|
-| **[Chuka AutoScheduler](https://github.com/DRAVIS55)** | AI-driven automated class scheduling | Django · Python · AI Algorithms | 0% conflicts · 5ms response |
-| **Dravsech SACCO System** | Loan processing & real-time financial analytics | Django · MySQL · React · REST APIs | Full financial lifecycle |
-| **Grassroot Development Kenya** | Multi-channel donation platform | Django · React · Sui Blockchain | PayPal · M-Pesa · Blockchain |
-| **AI-Powered News Hub** | News aggregation with AI explanations | React · AI APIs | Multi-source aggregation |
-| **Construction Management System** | Global workforce marketplace | Django · WebSocket | Real-time site monitoring |
-| **Java Currency Predictor** | Real-time converter with forecasting | Java · ML Algorithms | 54% forecast accuracy |
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DRAVIS55&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DRAVIS55&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DRAVIS55&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
