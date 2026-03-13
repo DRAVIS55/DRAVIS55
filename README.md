@@ -42,97 +42,226 @@
 
 > All systems are live and in active iteration — features are continuously being designed, refined, and shipped.
 
-### University & Campus Systems
+---
 
-**[Chuka University Timetabling System](https://chukauniversitytimetabling.pythonanywhere.com/)**
-AI-driven automated class scheduling system built for Chuka University. Uses constraint-based algorithms to achieve 0% timetable conflicts. Reduced scheduling time from 3–5 hours of manual work to under 10 seconds, with backend response time cut from ~1000ms to 5ms. Serves 500+ active users.
-`Django` `Python` `AI Scheduling Algorithms` `REST APIs`
+### 🎓 University & Campus Systems
+
+![Category](https://img.shields.io/badge/Category-Campus%20Tech-4158D0?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Live%20%7C%20Iterating-28a745?style=flat-square)
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**📅 [Chuka University Timetabling](https://chukauniversitytimetabling.pythonanywhere.com/)**
+
+AI-driven automated class scheduling. Constraint-based engine achieving **0% conflicts**, response time cut from ~1000ms to **5ms**, scheduling time from 3–5 hrs to **under 10 seconds**.
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/AI_Scheduling-00D4FF?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+**🗂️ [MultApp — Campus Super App](https://samuelkibunja.pythonanywhere.com/)**
+
+Unified student hub — class timetables, exam schedules, notes, mess menus, food timetables, religion, and **Comrade Corner** for campus music and culture. One platform for the full student experience.
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![REST](https://img.shields.io/badge/REST_APIs-555?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🏥 [Afya Wise Connect](https://afya-wise-connect.vercel.app/)**
+
+Mental health + radio platform partnered with Chuka Radio. AI adapts content to each user's learning pattern. BOLT-powered session previews. Emergency integration with Chuka University Dispensary.
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%2FML-FF6B6B?style=flat-square)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+**🏠 [Hostel Finder](https://samuelkibunja.pythonanywhere.com/hostels/)**
+
+Smart house hunting for students. Heuristic algorithms match users to best-fit accommodation. Integrated maps and 3D directional views guide users from campus to their chosen hostel.
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Maps](https://img.shields.io/badge/Maps_API-34A853?style=flat-square&logo=googlemaps&logoColor=white)
+![3D](https://img.shields.io/badge/3D_Integration-4B9EF4?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 ---
 
-**[MultApp — Campus Super App](https://samuelkibunja.pythonanywhere.com/)**
-A unified campus resource platform giving students access to class timetables, exam timetables, notes, and interactive tools. Integrates mess menus, food schedules, religion content, and local university music via **Comrade Corner** — a dedicated space for campus culture and entertainment. Designed as a single hub for the full student experience.
-`Django` `Python` `REST APIs` `JavaScript`
+### 💬 Communication & Community
+
+![Category](https://img.shields.io/badge/Category-Social%20%26%20Community-E96479?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Live%20%7C%20Iterating-28a745?style=flat-square)
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**💬 [UniChat](https://samuelkibunja.pythonanywhere.com/chat/)**
+
+Secure, fast, stable messaging for intra- and inter-university communication. Supports document sharing of any size, group creation, and polls. Open to all universities and institutions in one unified space.
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square)
+![Realtime](https://img.shields.io/badge/Real--time-00D4FF?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+**🕊️ [Confession & Guidance](https://samuelkibunja.pythonanywhere.com/confessions/)**
+
+Anonymous platform for confessions, professional counselling, mentorship, and rehabilitation. Identity is fully anonymised by default. Users can interact with counsellors, exchange contacts, and build support networks within the platform.
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Anonymisation](https://img.shields.io/badge/Anonymisation-8B5CF6?style=flat-square)
+![REST](https://img.shields.io/badge/REST_APIs-555?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**✝️ [Religion Connect](https://samuelkibunja.pythonanywhere.com/religion/)**
+
+Interdenominational platform for all faiths — upload and read content, plan events, schedule prayers and meetings, and share teachings. Every religion accommodated in one unified space.
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![CMS](https://img.shields.io/badge/Content_Management-F59E0B?style=flat-square)
+![Events](https://img.shields.io/badge/Event_Scheduling-10B981?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+&nbsp;
+
+</td>
+</tr>
+</table>
 
 ---
 
-**[Afya Wise Connect](https://afya-wise-connect.vercel.app/)**
-Mental health and radio integration platform partnered with Chuka Radio. Uses AI to explain health content to users based on their individual learning patterns and cognitive capability. Includes an emergency integration with Chuka University Dispensary and a BOLT-powered session preview feature. Designed to bridge the gap between mental health awareness and accessibility.
-`Django` `AI/ML` `BOLT` `Vercel` `Emergency Systems Integration`
+### 📰 News, Politics & Civic Tools
+
+![Category](https://img.shields.io/badge/Category-Civic%20Tech-F97316?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Live%20%7C%20Iterating-28a745?style=flat-square)
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**📡 [NewsHub KE](https://newshubke.pythonanywhere.com/)**
+
+AI news aggregation platform. Scrapes from multiple sources, relates stories, generates video summaries per topic, builds historical news timelines, and synthesises real narratives users can interact with. ML component learns user behaviour to improve relevance over time.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![AI](https://img.shields.io/badge/AI%2FML-00D4FF?style=flat-square)
+![Scraping](https://img.shields.io/badge/Web_Scraping-F97316?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+**🗳️ [Politics Pulse](https://samuelkibunja.pythonanywhere.com/politics/)**
+
+Aggregates political news from across the web, groups stories by topic, and presents them in one clean interactive feed. Designed to give users a clear, organised view of the political landscape.
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Scraping](https://img.shields.io/badge/Web_Scraping-F97316?style=flat-square)
+![REST](https://img.shields.io/badge/REST_APIs-555?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 ---
 
-**[Hostel Finder](https://samuelkibunja.pythonanywhere.com/hostels/)**
-Simplifies house hunting for students near university. Uses sophisticated heuristic algorithms to help users identify the best-fit accommodation based on preference and proximity. Integrates maps and 3D directional views to guide users from campus to the hostel.
-`Django` `Heuristic Algorithms` `Maps API` `3D Integration`
+### 🛒 Marketplace & Commerce
+
+![Category](https://img.shields.io/badge/Category-Commerce%20%26%20Trade-10B981?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Live%20%7C%20Iterating-28a745?style=flat-square)
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🛍️ [Campus Marketplace](https://samuelkibunja.pythonanywhere.com/marketplace/)**
+
+Second-hand marketplace for students and the community. Listings are verified by a sophisticated algorithm before going live. Items are well-grouped by category with a clean, intuitive user experience.
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Algorithm](https://img.shields.io/badge/Verification_Algorithm-8B5CF6?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+<td width="50%" valign="top">
+
+**🌱 [Grassroot Development Kenya](https://glassgrow.pythonanywhere.com/)**
+
+NGO web information system with multi-channel donation support — PayPal, M-Pesa, card payments, and Sui Blockchain. Real-time content management and cloud-hosted infrastructure.
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![M-Pesa](https://img.shields.io/badge/M--Pesa-00A550?style=flat-square)
+![Blockchain](https://img.shields.io/badge/Sui_Blockchain-4B9EF4?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### Communication & Community Systems
+### 🏢 Client & Commercial Projects
 
-**[UniChat](https://samuelkibunja.pythonanywhere.com/chat/)**
-A secure, fast, and stable messaging platform for intra- and inter-university communication. Supports document sharing of all sizes, group creation, and polls. Built for scale — any university or institution can join and interact in one unified space.
-`Django` `WebSocket` `Real-time Messaging` `Document Handling`
+![Category](https://img.shields.io/badge/Category-Client%20Work-6366F1?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Live%20%7C%20Maintained-28a745?style=flat-square)
 
----
+<table>
+<tr>
+<td width="33%" valign="top">
 
-**[Confession & Guidance System](https://samuelkibunja.pythonanywhere.com/confessions/)**
-An anonymous platform that allows users to confess and receive professional guidance, mentorship, and rehabilitation support. User identity is fully anonymised by default unless they choose to disclose. Users can interact with counsellors, exchange verified contacts, and build support connections within the platform.
-`Django` `Anonymisation` `Counsellor Integration` `REST APIs`
+**☀️ [Soyanala Solar](https://solaryora.pythonanywhere.com/)**
 
----
+Online marketplace for a solar energy company. Customers can browse, compare, and purchase solar products directly from the platform.
 
-**[Religion Connect](https://samuelkibunja.pythonanywhere.com/religion/)**
-An interdenominational platform where communities from all religions can upload and read content, plan events, schedule prayers and meetings, and share teachings. All major and minor religions are accommodated in one unified space.
-`Django` `Content Management` `Event Scheduling`
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![E-commerce](https://img.shields.io/badge/E--commerce-F59E0B?style=flat-square)
 
----
+</td>
+<td width="33%" valign="top">
 
-### News, Politics & Civic Tools
+**🏡 [Hope and Home KE](http://www.hopeandhomeke.com)**
 
-**[NewsHub KE](https://newshubke.pythonanywhere.com/)**
-AI-powered news aggregation platform that scrapes news from multiple sources and relates them intelligently. Users can interact with past and current news, the system generates video summaries for a topic, builds news history timelines, and creates synthesised real-news narratives. An ML component continuously learns user behaviour to improve relevance.
-`React` `Django` `AI APIs` `Web Scraping` `ML` `Video Generation`
+E-commerce website built to bring a retail shop online and open it to internet-scale customers.
 
----
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![E-commerce](https://img.shields.io/badge/E--commerce-F59E0B?style=flat-square)
 
-**[Politics Pulse](https://samuelkibunja.pythonanywhere.com/politics/)**
-Aggregates political news from across the web, groups them by topic, and presents them in one readable, interactive feed. Users can read and engage with grouped stories for a clearer picture of the political landscape.
-`Django` `Web Scraping` `Content Grouping` `REST APIs`
+</td>
+<td width="33%" valign="top">
 
----
+**🏨 [Lowands Hotel](http://lowandshotel.com)**
 
-### Marketplace & Commerce
+Rebuilt from a static site to a dynamic CMS, enabling staff to manage and update content independently without developer involvement.
 
-**[Campus Marketplace](https://samuelkibunja.pythonanywhere.com/marketplace/)**
-A second-hand marketplace for students and community members. Sellers upload goods which are verified by a sophisticated algorithm before listing. Items are well-grouped by category and the platform is optimised for a clean, intuitive user experience.
-`Django` `Verification Algorithms` `REST APIs` `JavaScript`
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![CMS](https://img.shields.io/badge/Dynamic_CMS-10B981?style=flat-square)
 
----
-
-**[Grassroot Development Kenya](https://glassgrow.pythonanywhere.com/)**
-Web information system for an NGO with a multi-channel donation platform supporting PayPal, M-Pesa, card payments, and Sui Blockchain. Includes real-time content management and is hosted on PythonAnywhere.
-`Django` `React` `PayPal API` `M-Pesa API` `Sui Blockchain`
-
----
-
-### Client & Commercial Projects
-
-**[Hope and Home KE](http://www.hopeandhomeke.com)**
-E-commerce website built for a retail shop to establish their online presence and reach customers across the internet.
-`Django` `E-commerce` `JavaScript`
-
----
-
-**Soyanala Solar Marketplace**
-Online marketplace built for a solar energy company, enabling customers to browse, compare, and purchase solar products directly from the platform.
-`Django` `Product Catalogue` `REST APIs`
-
----
-
-**[Lowands Hotel](http://lowandshotel.com)**
-Hotel website rebuilt from a static site into a dynamic content management system, allowing staff to upload and update content independently without developer intervention.
-`Django` `CMS` `Dynamic Content`
+</td>
+</tr>
+</table>
 
 ---
 
