@@ -30,11 +30,14 @@
 
 | Period | Role | Organisation |
 |--------|------|--------------|
+| Jan 2026 – Present | Full-Stack Developer | LEZOL Engineering |
+| Jan 2026 – Present | Full-Stack Developer | Hope & HomeKe |
+| Feb 2026 – Mar 2026 | Presiding Officer / Oversight Chair | Boyvate NGO |
+| Oct 2025 – Present | System Developer | TISC, Chuka University |
 | Sep 2025 – Present | Co-Founder & CTO | DravTech IT Solutions |
-| Sep 2025 – Dec 2025 | System Developer | Dravtech / TISC Incubation |
-| Sep 2025 – Dec 2025 | Web & System Administrator | Grassroot Development Kenya |
-| Jan 2025 – Nov 2025 | Call Agent | Kenya Private Sector Alliance |
-| Apr 2024 – Dec 2024 | Data Verifier | Kenya Private Sector Alliance |
+| Sep 2025 – Present | Webmaster | Grassroot Development Organisation Kenya |
+| Feb 2025 – Sep 2025 | Data Verifier | Kenya Private Sector Alliance (KEPSA) |
+| Sep 2023 – Sep 2025 | Software & Digital Skills Trainer | Digital Stationery & Printers Cyber – Chuka |
 
 ---
 
@@ -314,7 +317,31 @@ NGO web information system with multi-channel donation support — PayPal, M-Pes
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
+
+**🏨 [Lowlands Hotel — Full Redesign](http://lowlandshotel.com)**
+
+Complete ground-up rebuild of the Lowlands Hotel & Spa website (Tharaka Nithi, Kenya). Migrated from a static site to a modern, secure, full-stack platform with a dynamic CMS enabling staff to manage content independently without developer involvement.
+
+**Key deliverables:**
+- Luxury responsive UI built with **React + Vite** — hero sliders, room carousels, gallery, media, live map
+- Secure **REST API** backend (Node.js + Express + MySQL) with JWT authentication and role-based access control
+- Multi-role staff dashboard — IT Admin, Hotel Manager (analytics & charts), Social Manager, Content Editor, Viewer
+- Full content management: rooms with photo upload, news, gallery, media posts, social handles, site settings
+- Online booking system with availability checking, confirmation flow, and guest management
+- Contact form with full message detail view, status tracking, and reply-by-email workflow
+- Production-ready: Docker support, environment config, secure file uploads, input validation
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
 
 **☀️ [Soyanala Solar](https://solaryora.pythonanywhere.com/)**
 
@@ -324,24 +351,27 @@ Online marketplace for a solar energy company. Customers can browse, compare, an
 ![E-commerce](https://img.shields.io/badge/E--commerce-F59E0B?style=flat-square)
 
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 **🏡 [Hope and Home KE](http://www.hopeandhomeke.com)**
 
-E-commerce website built to bring a retail shop online and open it to internet-scale customers.
+Production-ready e-commerce platform enhancing the digital presence of a growing interior décor brand. Improved customer engagement through interactive features and intuitive UI/UX. Enabled seamless online product discovery and ordering for a modern retail experience.
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![E-commerce](https://img.shields.io/badge/E--commerce-F59E0B?style=flat-square)
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-**🏨 [Lowands Hotel](http://lowandshotel.com)**
+**⚙️ LEZOL Engineering Platform** *(in production)*
 
-Rebuilt from a static site to a dynamic CMS, enabling staff to manage and update content independently without developer involvement.
+Production-ready e-commerce platform architected to digitise engineering business operations end-to-end. Scalable solution designed to support real-world transactions and business growth.
 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![CMS](https://img.shields.io/badge/Dynamic_CMS-10B981?style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![E-commerce](https://img.shields.io/badge/E--commerce-F59E0B?style=flat-square)
 
 </td>
 </tr>
@@ -413,6 +443,7 @@ focus = {
     "Blockchain":         "Smart contract architecture & Web3 patterns",
     "DravTech":           "Scaling products to serve 500+ active users",
     "Construction ERP":   "Migrating construction system to Java for enterprise scale",
+    "LEZOL Engineering":  "Production e-commerce platform for engineering operations",
 }
 ```
 
