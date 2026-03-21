@@ -26,6 +26,115 @@
 
 ---
 
+## Experience
+
+---
+
+### Full-Stack Developer — Lowlands Hotel & Spa
+![Role](https://img.shields.io/badge/Role-Full--Stack%20Developer-E07B6A?style=flat-square) ![Period](https://img.shields.io/badge/Period-2024%20–%20Present-28a745?style=flat-square) ![Type](https://img.shields.io/badge/Type-Contract-6366F1?style=flat-square)
+
+> Tharaka Nithi, Kenya · Remote
+
+- Rebuilt the Lowlands Hotel & Spa website from a static site to a modern, secure, full-stack platform using **React + Vite** (frontend) and **Node.js + Express + MySQL** (backend)
+- Designed and implemented a luxury-themed responsive UI featuring hero sliders, room carousels, photo gallery, media posts, interactive map, booking system, and contact management
+- Built a secure **REST API** with **JWT authentication** and **role-based access control** supporting five staff roles: IT Admin, Hotel Manager, Social Manager, Content Editor, and Viewer
+- Developed a multi-role **staff dashboard** with graphical analytics, booking management, room photo uploads, news CMS, gallery management, social handles, and site settings
+- Implemented a full **online booking system** with real-time availability checking, confirmation flow, and guest record management
+- Engineered a contact management system with full message detail view, status tracking (unread/read/replied), and reply-by-email workflow
+- Delivered production-ready infrastructure with Docker support, environment config, secure file uploads (multer), and input validation
+
+---
+
+### Full-Stack Developer — LEZOL Engineering
+![Role](https://img.shields.io/badge/Role-Full--Stack%20Developer-4158D0?style=flat-square) ![Period](https://img.shields.io/badge/Period-Jan%202026%20–%20Present-28a745?style=flat-square) ![Type](https://img.shields.io/badge/Type-Contract-6366F1?style=flat-square)
+
+> Nairobi County, Kenya · Remote
+
+- Architecting a production-ready e-commerce platform to digitise engineering business operations
+- Driving end-to-end system development from concept to deployment
+- Delivering a scalable solution designed to support real-world transactions and growth
+
+---
+
+### Full-Stack Developer — Hope & HomeKe
+![Role](https://img.shields.io/badge/Role-Full--Stack%20Developer-10B981?style=flat-square) ![Period](https://img.shields.io/badge/Period-Jan%202026%20–%20Present-28a745?style=flat-square) ![Type](https://img.shields.io/badge/Type-Contract-6366F1?style=flat-square)
+
+> Nairobi County, Kenya · Remote
+
+- Delivered a production-ready e-commerce platform enhancing the digital presence of a growing interior décor brand
+- Improved customer engagement through interactive features and intuitive UI/UX design
+- Enabled seamless online product discovery and ordering for a modern retail experience
+
+---
+
+### Presiding Officer / Oversight Chair — Boyvate NGO
+![Role](https://img.shields.io/badge/Role-Presiding%20Officer-8B5CF6?style=flat-square) ![Period](https://img.shields.io/badge/Period-Feb%202026%20–%20Mar%202026-64748B?style=flat-square) ![Type](https://img.shields.io/badge/Type-Apprenticeship-F59E0B?style=flat-square)
+
+- Strengthened governance and accountability through structured oversight and leadership
+- Ensured smooth execution of organisational processes through effective coordination and supervision
+- Promoted transparency and integrity in decision-making frameworks
+
+---
+
+### System Developer — TISC, Chuka University
+![Role](https://img.shields.io/badge/Role-System%20Developer-00D4FF?style=flat-square) ![Period](https://img.shields.io/badge/Period-Oct%202025%20–%20Present-28a745?style=flat-square) ![Type](https://img.shields.io/badge/Type-Seasonal-F59E0B?style=flat-square)
+
+> Nairobi County, Kenya · Remote
+
+- Delivered a high-performance AI scheduling system achieving **0% timetable conflicts**
+- Reduced manual scheduling workload by over **95%**, improving institutional efficiency
+- Built a scalable academic solution with real-world deployment impact
+
+---
+
+### Co-Founder & CTO — DravTech IT Solutions
+![Role](https://img.shields.io/badge/Role-Co--Founder%20%26%20CTO-E96479?style=flat-square) ![Period](https://img.shields.io/badge/Period-Sep%202025%20–%20Present-28a745?style=flat-square) ![Type](https://img.shields.io/badge/Type-Part--time-6366F1?style=flat-square)
+
+> Nairobi County, Kenya · Remote
+
+- Spearheaded technology vision and product architecture for a growing tech startup
+- Delivered scalable platforms serving hundreds of users with high performance and reliability
+- Drove innovation through development of AI-powered and real-time systems
+- Established a robust engineering foundation enabling rapid product development and deployment
+
+---
+
+### Webmaster — Grassroot Development Organisation Kenya
+![Role](https://img.shields.io/badge/Role-Webmaster-34D399?style=flat-square) ![Period](https://img.shields.io/badge/Period-Sep%202025%20–%20Present-28a745?style=flat-square) ![Type](https://img.shields.io/badge/Type-Part--time-6366F1?style=flat-square)
+
+> Kenya · Remote
+
+- Led the development and deployment of a scalable digital platform supporting grassroots operations
+- Engineered secure payment integrations enabling seamless donation channels (PayPal and blockchain), with additional integrations under development
+- Optimised system performance and ensured high availability through cloud infrastructure management
+- Strengthened organisational digital presence through robust web administration and system security practices
+- Collaborated cross-functionally to align technology solutions with community impact goals
+
+---
+
+### KFA Director (Tharaka Nithi County) — Kenya Private Sector Alliance (KEPSA)
+![Role](https://img.shields.io/badge/Role-KFA%20Director%20%7C%20Data%20Verifier-F97316?style=flat-square) ![Period](https://img.shields.io/badge/Period-Feb%202025%20–%20Sep%202025-64748B?style=flat-square) ![Type](https://img.shields.io/badge/Type-Contract-6366F1?style=flat-square)
+
+> Remote
+
+- Served as **KFA Director for Tharaka Nithi County**, leading field operations and stakeholder engagement for Kenya's premier business alliance
+- Enhanced SME data accuracy and validation processes, supporting financial inclusion initiatives
+- Played a key role in improving datasets used for credit scoring and capital allocation models
+- Delivered actionable insights through structured reporting and field verification
+
+---
+
+### Software & Digital Skills Trainer — Digital Stationery & Printers Cyber, Chuka
+![Role](https://img.shields.io/badge/Role-Skills%20Trainer-0EA5E9?style=flat-square) ![Period](https://img.shields.io/badge/Period-Sep%202023%20–%20Sep%202025-64748B?style=flat-square) ![Type](https://img.shields.io/badge/Type-Part--time-6366F1?style=flat-square)
+
+> Kenya · On-site
+
+- Empowered learners with in-demand digital and programming skills across multiple technologies
+- Delivered practical, hands-on training improving technical proficiency and employability
+- Bridged the gap between theoretical knowledge and real-world application
+
+---
+
 ## Timeline
 
 | Period | Role | Organisation |
@@ -36,7 +145,8 @@
 | Oct 2025 – Present | System Developer | TISC, Chuka University |
 | Sep 2025 – Present | Co-Founder & CTO | DravTech IT Solutions |
 | Sep 2025 – Present | Webmaster | Grassroot Development Organisation Kenya |
-| Feb 2025 – Sep 2025 | Data Verifier | Kenya Private Sector Alliance (KEPSA) |
+| 2024 – Present | Full-Stack Developer | Lowlands Hotel & Spa |
+| Feb 2025 – Sep 2025 | KFA Director & Data Verifier | Kenya Private Sector Alliance (KEPSA) |
 | Sep 2023 – Sep 2025 | Software & Digital Skills Trainer | Digital Stationery & Printers Cyber – Chuka |
 
 ---
