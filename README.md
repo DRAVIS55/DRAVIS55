@@ -50,13 +50,13 @@ Focus     →  Full-Stack · AI/ML · Cybersecurity · Blockchain · Quant Finan
 ```
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   ●  KFA Director & Data Verifier · KEPSA          Sep 2024 → Now
-  ●  Full-Stack Developer · Lowlands Hotel & Spa       2024 → Now
+  ●  Full-Stack Developer · Lowlands Hotel & Spa   Feb 2026 → Now
   ●  System Developer · TISC, Chuka University     Oct 2025 → Now
   ●  Co-Founder & CTO · DravTech IT Solutions      Sep 2025 → Now
   ●  Webmaster · Grassroot Development Org Kenya   Sep 2025 → Now
   ●  Full-Stack Developer · LEZOL Engineering       Jan 2026 → Now
   ●  Full-Stack Developer · Hope & HomeKe           Jan 2026 → Now
-  ○  Presiding Officer · Boyvate NGO          Feb 2026 → Mar 2026
+  ●  Presiding Chair · Boyvate NGO                 Feb 2026 → Now
   ○  Skills Trainer · Digital Stationery Cyber Sep 2023 → Sep 2025
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   ●  Active   ○  Completed
@@ -78,7 +78,7 @@ Leading field operations as **KFA Director for Tharaka Nithi County** — Kenya'
 
 ### 🏨 Full-Stack Developer — Lowlands Hotel & Spa
 
-![Active](https://img.shields.io/badge/2024%20–%20Present-C0392B?style=flat-square&labelColor=F9EAE8&color=C0392B)
+![Active](https://img.shields.io/badge/Feb%202026%20–%20Present-C0392B?style=flat-square&labelColor=F9EAE8&color=C0392B)
 ![Contract](https://img.shields.io/badge/Contract-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A)
 ![Location](https://img.shields.io/badge/Tharaka%20Nithi%20·%20Remote-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A)
 
@@ -146,12 +146,12 @@ Delivered a production-ready e-commerce platform for a growing interior décor b
 
 ---
 
-### 🕊️ Presiding Officer / Oversight Chair — Boyvate NGO
+### 🕊️ Presiding Chair — Boyvate NGO
 
-![Completed](https://img.shields.io/badge/Feb%202026%20–%20Mar%202026-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A)
-![Apprenticeship](https://img.shields.io/badge/Apprenticeship-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A)
+![Active](https://img.shields.io/badge/Feb%202026%20–%20Present-C0392B?style=flat-square&labelColor=F9EAE8&color=C0392B)
+![Leadership](https://img.shields.io/badge/Leadership-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A)
 
-Strengthened governance and accountability through structured oversight and leadership. Promoted transparency and integrity in organisational decision-making frameworks.
+Strengthened governance and accountability through structured oversight and leadership. Promoting transparency and integrity in organisational decision-making frameworks.
 
 ---
 
@@ -187,7 +187,7 @@ Delivered practical, hands-on digital and programming skills training over two y
 2026
  ├── Jan  ● Full-Stack Developer · LEZOL Engineering ───────────────────── ONGOING
  ├── Jan  ● Full-Stack Developer · Hope & HomeKe ──────────────────────── ONGOING
- └── Feb  ○ Presiding Officer · Boyvate NGO ─────────────────── Completed Mar 2026
+ └── Feb  ● Presiding Chair · Boyvate NGO ──────────────────────────────── ONGOING
 
  ●  Active   ○  Completed
 ```
@@ -325,7 +325,7 @@ Delivered practical, hands-on digital and programming skills training over two y
 
 <img src="https://github-readme-stats.vercel.app/api?username=DRAVIS55&show_icons=true&hide_border=true&count_private=true&bg_color=FDF3F1&title_color=C0392B&icon_color=E8837A&text_color=5C3D3A&ring_color=C0392B" height="160"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRAVIS55&layout=compact&hide_border=true&bg_color=FDF3F1&title_color=C0392B&text_color=5C3D3A" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRAVIS55&layout=compact&hide_border=true&bg_color=FDF3F1&title_color=C0392B&text_color=5C3D3A&langs_count=10" height="160"/>
 
 <br/><br/>
 
