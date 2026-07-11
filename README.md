@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E8837A,F4A59D,F7C5BF&height=200&section=header&text=Samuel%20Kibunja%20Macharia&fontSize=38&fontColor=3D2B29&fontAlignY=42&desc=DRAVIS55%20%7C%20Full-Stack%20Developer%20%7C%20AI%20%26%20Systems%20Specialist%20%7C%20Nairobi%2C%20Kenya&descAlignY=65&descSize=13&descFontColor=5C3D3A&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E8837A,F4A59D,F7C5BF&height=200&section=header&text=Samuel%20Kibunja%20Macharia&fontSize=38&fontColor=3D2B29&fontAlignY=42&desc=Full-Stack%20Software%20Engineer%20%7C%20Field%20Data%20%26%20Systems%20Specialist%20%7C%20Nairobi%2C%20Kenya&descAlignY=65&descSize=13&descFontColor=5C3D3A&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=1000&color=C0392B&center=true&vCenter=true&width=700&lines=IT+Support+Officer+Intern+%40+KIRDI%2C+Nairobi;Full-Stack+Developer+%7C+Building+for+Gudmark+Agencies;Django+%7C+React+%7C+Node.js+%7C+AI%2FML+%7C+Cybersecurity;BSc+Computer+Science+%7C+Chuka+University+%7C+Class+of+2027)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=1000&color=C0392B&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer+%7C+Field+Data+%26+Systems+Specialist;Co-Founder+%26+CTO+%40+DravTech+IT+Solutions;Django+%7C+React+%7C+Node.js+%7C+AI%2FML+%7C+Cybersecurity;BSc+Computer+Science+%7C+Chuka+University+%7C+GPA+4.67)](https://git.io/typing-svg)
 
 <br/>
 
@@ -22,103 +22,82 @@
 
 <div align="center">
 
-## 🧑‍💻 About Me
+## 🧑‍💻 Profile
 
 </div>
 
-I'm a **Computer Science student** at Chuka University *(BSc, Class of 2027)* currently interning as an **IT Support Officer at KIRDI (Kenya Industrial Research and Development Institute)**, Nairobi, while freelancing as a full-stack developer for clients across Kenya. I build intelligent, scalable systems — from AI scheduling engines that eliminate university timetable conflicts to multi-channel civic platforms, full-stack hotel management systems, and quantitative finance tools.
+Field-oriented technology and data professional with hands-on experience validating SME and beneficiary data for the **Mastercard Jiinue Growth Program** at KEPSA, combined with a full-stack engineering background spanning EdTech, fintech, e-commerce, and civil-society platforms. Co-Founder & CTO of **DravTech IT Solutions**, where I set technical direction and ship AI-assisted, real-time systems. Comfortable owning field verification, stakeholder engagement, data management, and technical delivery end-to-end for institutional, NGO, and private-sector programmes.
 
-My work spans the complete stack: Django, React, Node.js, and FastAPI on the backend and frontend; PostgreSQL, MySQL, and MongoDB for data; and AI/ML pipelines for scheduling, personalisation, and market prediction. I'm actively advancing in **Cybersecurity & Ethical Hacking**, **Blockchain/Web3**, and **Quantitative Finance**.
+My engineering work spans the full stack — Django, React, Node.js, and FastAPI on the backend and frontend; PostgreSQL, MySQL, and MongoDB for data; and AI/ML pipelines for scheduling, personalisation, and market prediction. I'm actively advancing in **Cybersecurity & Ethical Hacking**, **Blockchain/Web3**, and **Quantitative Finance**.
 
 ```
-Role      →  IT Support Officer Intern @ KIRDI · Full-Stack Freelancer
-Education →  BSc Computer Science · Chuka University · Class of 2027
-Location  →  Nairobi, Kenya
-Focus     →  Full-Stack · AI/ML · Cybersecurity · Blockchain · Quant Finance
+Role        →  Full-Stack Software Engineer · Field Data & Systems Specialist
+Currently   →  Co-Founder & CTO, DravTech IT Solutions · Freelance Full-Stack Developer
+Education   →  BSc Computer Science · Chuka University · GPA 4.67
+Location    →  Nairobi, Kenya
+Focus       →  Full-Stack · AI/ML · Cybersecurity · Blockchain · Quant Finance
 ```
 
 ---
 
 <div align="center">
 
-## 💼 Experience
+## 💼 Professional Experience
 
 </div>
 
 <div align="center">
 
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  ●  IT Support Officer Intern · KIRDI, Nairobi    May 2026 → Now
-  ●  Full-Stack Developer · Gudmark Agencies        Jun 2026 → Now
-  ○  Full-Stack Developer · RayVision Technologies  Jun 2026
-  ○  Full-Stack Developer · Trinity Cylemart        May 2026
-  ○  Full-Stack Developer · Lowlands Hotel & Spa   Mar 2026
-  ○  Full-Stack Developer · LEZOL Engineering       Jan 2026 → May 2026
-  ○  Full-Stack Developer · Hope & HomeKe           Jan 2026
-  ○  Presiding Chair · Boyvate NGO                 Feb 2026 → Mar 2026
-  ○  Co-Founder & CTO · DravTech IT Solutions      Sep 2025 → 2026
-  ○  Webmaster · Grassroot Development Org Kenya   Sep 2025 → 2026
-  ○  System Developer · TISC, Chuka University     Oct 2025 → 2026
-  ○  KFA Director & Data Verifier · KEPSA          Oct 2024 → 2026
-  ○  Skills Trainer · Digital Stationery Cyber     Sep 2023 → Sep 2025
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  ●  Active   ○  Completed
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ●  IT Support Officer · KIRDI, Nairobi                    May 2026 – Jul 2026
+  ●  Freelance Full-Stack Developer · Gudmark Agencies      Jun 2026 – Now
+  ○  Full-Stack Developer · Hope & HomeKe                   Jan 2026 – Jun 2026
+  ○  Full-Stack Developer · LEZOL Engineering                Jan 2026 – May 2026
+  ○  Data Verification & Call Agent · KEPSA (KFA Programme) Oct 2024 – May 2026
+  ○  Webmaster · Grassroot Development Organization Kenya   Sep 2025 – May 2026
+  ○  Systems Developer · TISC, Chuka University             Oct 2025 – Mar 2026
+  ○  Presiding Officer / Oversight Chair · Boyvate NGO      Feb 2026 – Mar 2026
+  ○  Full-Stack Developer · Lowlands Hotel & Spa            Jan 2025 – Feb 2026
+  ○  Co-Founder & CTO · DravTech IT Solutions               Sep 2025 – Jan 2026
+  ○  Digital Skills Trainer · Digital Stationery Cyber      Sep 2023 – Sep 2025
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ●  Current / Ongoing   ○  Completed
 ```
 
 </div>
 
 ---
 
-### 🏛️ IT Support Officer Intern — Kenya Industrial Research and Development Institute (KIRDI)
+### 🏛️ Information Technology Support Officer — Kenya Industrial Research and Development Institute (KIRDI)
 
-![Active](https://img.shields.io/badge/May%202026%20–%20Present-C0392B?style=flat-square&labelColor=F9EAE8&color=C0392B)
+![Current](https://img.shields.io/badge/May%202026%20–%20Jul%202026-C0392B?style=flat-square&labelColor=F9EAE8&color=C0392B)
 ![Internship](https://img.shields.io/badge/Internship-7F3A38?style=flat-square&labelColor=F9EAE8&color=7F3A38)
 ![Location](https://img.shields.io/badge/Nairobi%20·%20On--site-7F3A38?style=flat-square&labelColor=F9EAE8&color=9B5C5A)
 
-Supporting KIRDI's IT operations, systems maintenance, and technical troubleshooting. Assists users with hardware and software issues, maintains computer systems and networks, and contributes to digital transformation initiatives. Supports web and system development tasks, system optimisation, and technology-driven solutions improving efficiency and service delivery in a national research and innovation environment.
+Supported ICT operations, systems maintenance, and troubleshooting across a national research institute. Assisted users with hardware and software issues, maintained systems and networks, and contributed to digital-transformation initiatives and system optimisation improving service delivery.
 
 ---
 
-### 🏢 Full-Stack Developer — Gudmark Agencies & Solutions
+### 🏢 Freelance Full-Stack Developer — Gudmark Agencies & Solutions
 
-![Active](https://img.shields.io/badge/Jun%202026%20–%20Present-C0392B?style=flat-square&labelColor=F9EAE8&color=C0392B)
+![Ongoing](https://img.shields.io/badge/Jun%202026%20–%20Present-C0392B?style=flat-square&labelColor=F9EAE8&color=C0392B)
 ![Contract](https://img.shields.io/badge/Contract-7F3A38?style=flat-square&labelColor=F9EAE8&color=7F3A38)
 ![Remote](https://img.shields.io/badge/Remote-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A)
 
-Currently building a professional web platform for Gudmark Agencies & Solutions. Delivering a modern, production-ready digital presence tailored to the client's business operations and growth needs.
+Building a professional, production-ready web platform tailored to the client's business operations and growth needs.
 
 ---
 
-### 🔭 Full-Stack Developer — RayVision Technologies
+### 🏡 Full-Stack Developer — Hope & HomeKe
 
-![Completed](https://img.shields.io/badge/Jun%202026-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A)
+![Completed](https://img.shields.io/badge/Jan%202026%20–%20Jun%202026-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A)
 ![Contract](https://img.shields.io/badge/Contract-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A)
-![Remote](https://img.shields.io/badge/Remote-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A)
+![Nairobi](https://img.shields.io/badge/Nairobi%20·%20Remote-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A)
 
-Built and delivered the web platform for [RayVision Technologies](https://www.rayvisiontechnologies.com/) — a professional, production-ready digital presence for a growing technology company.
+Delivered a production e-commerce platform for an interior-décor brand, from UX design through payment integration, enabling seamless product discovery and ordering.
 
----
-
-### 🚗 Full-Stack Developer — Trinity Cylemart & Auto Ltd
-
-![Completed](https://img.shields.io/badge/May%202026-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A)
-![Contract](https://img.shields.io/badge/Contract-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A)
-![Remote](https://img.shields.io/badge/Remote-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A)
-
-Designed and delivered a full-stack web platform for Trinity Cylemart & Auto Ltd, supporting the company's automotive and cycle business operations with a modern digital presence.
-
----
-
-### 🏨 Full-Stack Developer — Lowlands Hotel & Spa
-
-![Completed](https://img.shields.io/badge/Mar%202026-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A)
-![Contract](https://img.shields.io/badge/Contract-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A)
-![Location](https://img.shields.io/badge/Tharaka%20Nithi%20·%20Remote-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A)
-
-Rebuilt the hotel website from a static site to a modern full-stack platform. Delivered a JWT-secured REST API with **5-role RBAC**, multi-role staff dashboard with analytics, online booking with real-time availability checking, contact CMS with reply-by-email, and Docker-ready production infrastructure.
-
-`React` · `Vite` · `Node.js` · `Express` · `MySQL` · `JWT` · `Docker`
+`Django` · `E-commerce` · `UI/UX`
 
 ---
 
@@ -128,127 +107,110 @@ Rebuilt the hotel website from a static site to a modern full-stack platform. De
 ![Contract](https://img.shields.io/badge/Contract-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A)
 ![Nairobi](https://img.shields.io/badge/Nairobi%20·%20Remote-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A)
 
-Architected a production-ready e-commerce platform to digitise end-to-end engineering business operations, built for real-world transaction volume and long-term growth.
+Led architecture and delivery of a production e-commerce platform digitising engineering-business operations end to end, built for real-world transaction volume and long-term growth.
 
 `Node.js` · `React` · `E-commerce`
 
 ---
 
-### 🏡 Full-Stack Developer — Hope & HomeKe
+### 🏛️ Data Verification & Call Agent — KFA Programme, Kenya Private Sector Alliance (KEPSA)
 
-![Completed](https://img.shields.io/badge/Jan%202026-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A)
+![Completed](https://img.shields.io/badge/Oct%202024%20–%20May%202026-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A)
 ![Contract](https://img.shields.io/badge/Contract-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A)
-![Nairobi](https://img.shields.io/badge/Nairobi%20·%20Remote-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A)
+![Location](https://img.shields.io/badge/Tharaka%20Nithi%20·%20Field%20%26%20Remote-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A)
 
-Delivered a production-ready e-commerce platform for a growing interior décor brand with interactive UI/UX, enabling seamless product discovery and ordering.
-
-`Django` · `E-commerce` · `UI/UX`
+Conducted field verification and validation of SME datasets supporting the Mastercard Jiinue Growth Program's credit-scoring and capital-allocation models. Ran support calls for the Jiinue Growth Program and the Stahimili Program — engaging SMEs, providing guidance, and accurately recording feedback to support continuous program improvement. Produced structured analytical reports translating field data into actionable insights for KEPSA.
 
 ---
 
-### 🕊️ Presiding Chair — Boyvate NGO
+### 🌍 Webmaster — Grassroot Development Organization Kenya
 
-![Completed](https://img.shields.io/badge/Feb%202026%20–%20Mar%202026-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A)
-![Leadership](https://img.shields.io/badge/Leadership-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A)
-
-Strengthened governance and accountability through structured oversight and leadership. Promoted transparency and integrity in organisational decision-making frameworks.
-
----
-
-### 🚀 Co-Founder & CTO — DravTech IT Solutions
-
-![Completed](https://img.shields.io/badge/Sep%202025%20–%202026-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A)
-![Part-time](https://img.shields.io/badge/Part--time-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A)
-![Nairobi](https://img.shields.io/badge/Nairobi%20·%20Remote-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A)
-
-Spearheaded technology vision and product architecture for a growing tech startup. Delivered scalable platforms serving hundreds of active users with high reliability, driven by AI-powered and real-time systems. Built DravTech Timetable App, Event Management System, and a global work marketplace.
-
-`Django` · `Python` · `WebSocket` · `React` · `PythonAnywhere`
-
----
-
-### 🌍 Webmaster — Grassroot Development Organisation Kenya
-
-![Completed](https://img.shields.io/badge/Sep%202025%20–%202026-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A)
+![Completed](https://img.shields.io/badge/Sep%202025%20–%20May%202026-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A)
 ![Part-time](https://img.shields.io/badge/Part--time-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A)
 ![Remote](https://img.shields.io/badge/Remote-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A)
 
-Led development of a scalable NGO digital platform. Engineered multi-channel donation integrations: **PayPal, M-Pesa, card payments, and Sui Blockchain**. Managed cloud infrastructure, security, and system availability.
+Built and maintained a multi-channel donation and payments platform: **M-Pesa, PayPal, card payments, and Sui Blockchain**. Managed cloud infrastructure, security posture, and advised on digital-presence strategy.
 
 `Django` · `M-Pesa API` · `PayPal` · `Sui Blockchain`
 
 ---
 
-### 🎓 System Developer — TISC, Chuka University
+### 🎓 Systems Developer — TISC, Chuka University
 
-![Completed](https://img.shields.io/badge/Oct%202025%20–%202026-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A)
+![Completed](https://img.shields.io/badge/Oct%202025%20–%20Mar%202026-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A)
 ![Seasonal](https://img.shields.io/badge/Seasonal-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A)
 ![Remote](https://img.shields.io/badge/Remote-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A)
 
-Built an AI scheduling system achieving **0% timetable conflicts**, reducing scheduling time from 3–5 hours to **under 10 seconds**, and cutting API response from ~1000ms to **5ms** — a 200× improvement. Eliminated ~95% of manual scheduling workload university-wide.
+Designed a constraint-based AI scheduling engine with real-time conflict detection and role-based access control — achieving **0% timetable conflicts**, cutting scheduling time from 3–5 hours to **under 10 seconds**, and reducing API response from ~1000ms to **5ms**, a 200× improvement. Eliminated ~95% of manual scheduling workload university-wide.
 
 `Django` · `Python` · `AI/ML` · `Constraint Solving`
 
 ---
 
-### 🏛️ KFA Director & Data Verifier — Kenya Private Sector Alliance (KEPSA)
+### 🕊️ Presiding Officer / Oversight Chair — Boyvate NGO
 
-![Completed](https://img.shields.io/badge/Oct%202024%20–%202026-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A)
-![Contract](https://img.shields.io/badge/Contract-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A)
-![Location](https://img.shields.io/badge/Tharaka%20Nithi%20·%20Remote-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A)
+![Completed](https://img.shields.io/badge/Feb%202026%20–%20Mar%202026-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A)
+![Leadership](https://img.shields.io/badge/Leadership-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A)
 
-Led field operations as KFA Director for Tharaka Nithi County. Validated and improved SME data accuracy supporting financial inclusion, credit scoring, and capital allocation models under the Mastercard Jiinue Growth Program. Previously served as Call Agent (Jan–Nov 2025): SME engagement, data capture, and credit algorithm support.
+Provided governance oversight and strengthened organisational accountability frameworks, promoting transparency and integrity in decision-making.
 
 ---
 
-### 🖥️ Software & Digital Skills Trainer — Digital Stationery & Printers Cyber, Chuka
+### 🏨 Full-Stack Developer — Lowlands Hotel & Spa
+
+![Completed](https://img.shields.io/badge/Jan%202025%20–%20Feb%202026-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A)
+![Contract](https://img.shields.io/badge/Contract-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A)
+![Location](https://img.shields.io/badge/Tharaka%20Nithi%20·%20Remote-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A)
+
+Rebuilt the hotel website from a static site into a modern full-stack booking platform. Delivered a JWT-secured REST API with **5-role RBAC**, a multi-role staff dashboard with analytics, online booking with real-time availability checking, a contact CMS with reply-by-email, and Docker-ready production infrastructure.
+
+`React` · `Vite` · `Node.js` · `Express` · `MySQL` · `JWT` · `Docker`
+
+---
+
+### 🚀 Co-Founder & Chief Technology Officer — DravTech IT Solutions
+
+![Completed](https://img.shields.io/badge/Sep%202025%20–%20Jan%202026-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A)
+![Part-time](https://img.shields.io/badge/Part--time-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A)
+![Nairobi](https://img.shields.io/badge/Nairobi%20·%20Remote-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A)
+
+Owned technology strategy, product architecture, and engineering leadership for a growing software company. Directed delivery of a timetabling platform serving 500+ users, an event-management system, and a global work marketplace — all AI-assisted and real-time.
+
+`Django` · `Python` · `WebSocket` · `React` · `PythonAnywhere`
+
+---
+
+### 🖥️ Digital Skills Trainer — Digital Stationery & Printers Cyber, Chuka
 
 ![Completed](https://img.shields.io/badge/Sep%202023%20–%20Sep%202025-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A)
 ![Part-time](https://img.shields.io/badge/Part--time-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A)
 ![On-site](https://img.shields.io/badge/Chuka%20·%20On--site-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A)
 
-Delivered practical, hands-on digital and programming skills training over two years. Bridged theoretical knowledge with real-world application, improving technical proficiency and employability for dozens of students.
+Delivered two years of hands-on programming and digital-skills instruction, bridging theoretical knowledge with real-world application and improving technical proficiency and employability for dozens of students.
 
 ---
 
 <div align="center">
 
-## 📅 Career Timeline
+## 🏢 Freelance Client Platforms
+
+> Delivered outside formal employment, as an independent full-stack developer.
 
 </div>
 
-```
-2023
- └── Sep  ○ Skills Trainer · Digital Stationery & Printers Cyber, Chuka
-
-2024
- └── Oct  ○ KFA Director & Data Verifier · KEPSA (Tharaka Nithi)
-
-2025
- ├── Sep  ○ Co-Founder & CTO · DravTech IT Solutions
- ├── Sep  ○ Webmaster · Grassroot Development Organisation Kenya
- └── Oct  ○ System Developer · TISC, Chuka University
-
-2026
- ├── Jan  ○ Full-Stack Developer · LEZOL Engineering ──── Jan–May
- ├── Jan  ○ Full-Stack Developer · Hope & HomeKe
- ├── Feb  ○ Presiding Chair · Boyvate NGO ─────────────── Feb–Mar
- ├── Mar  ○ Full-Stack Developer · Lowlands Hotel & Spa
- ├── May  ● IT Support Officer Intern · KIRDI, Nairobi ── ONGOING
- ├── May  ○ Full-Stack Developer · Trinity Cylemart & Auto Ltd
- ├── Jun  ○ Full-Stack Developer · RayVision Technologies
- └── Jun  ● Full-Stack Developer · Gudmark Agencies & Solutions ── ONGOING
-
- ●  Active   ○  Completed
-```
+| Project | Description | Stack | Status |
+|:---|:---|:---|:---:|
+| [🔭 RayVision Technologies](https://www.rayvisiontechnologies.com/) | Professional web platform for a technology company | Django · React | ![Delivered](https://img.shields.io/badge/Delivered%20Jun%202026-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A) |
+| 🚗 Trinity Cylemart & Auto Ltd | Full-stack web platform for an automotive & cycle business | Django · E-commerce | ![Delivered](https://img.shields.io/badge/Delivered%20May%202026-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A) |
+| [☀️ Soyanala Solar](https://solaryora.pythonanywhere.com/) | Solar product marketplace — browse, compare, purchase | Django · E-commerce | ![Live](https://img.shields.io/badge/Live-C0392B?style=flat-square&labelColor=F9EAE8&color=C0392B) |
 
 ---
 
 <div align="center">
 
-## 🗂️ Projects
+## 🗂️ Selected Projects
 
-> All systems are live and in active iteration.
+> Independent builds, in active iteration.
 
 </div>
 
@@ -322,20 +284,6 @@ Delivered practical, hands-on digital and programming skills training over two y
 
 ---
 
-### 🏢 Client & Commercial Projects
-
-| Project | Description | Stack | Status |
-|:---|:---|:---|:---:|
-| 🏢 Gudmark Agencies & Solutions | Professional web platform for a growing agency — currently in development | Django · React | ![Building](https://img.shields.io/badge/Building-C0392B?style=flat-square&labelColor=F9EAE8&color=C0392B) |
-| [🔭 RayVision Technologies](https://www.rayvisiontechnologies.com/) | Professional web platform for a technology company · delivered Jun 2026 | Django · React | ![Live](https://img.shields.io/badge/Live-C0392B?style=flat-square&labelColor=F9EAE8&color=C0392B) |
-| 🚗 Trinity Cylemart & Auto Ltd | Full-stack web platform for an automotive & cycle business · delivered May 2026 | Django · E-commerce | ![Live](https://img.shields.io/badge/Live-C0392B?style=flat-square&labelColor=F9EAE8&color=C0392B) |
-| [🏨 Lowlands Hotel & Spa](http://lowlandshotel.com) | Full rebuild · luxury UI · 5-role dashboard · booking · CMS · Docker | React · Vite · Node · MySQL | ![Live](https://img.shields.io/badge/Live-C0392B?style=flat-square&labelColor=F9EAE8&color=C0392B) |
-| [🏡 Hope and Home KE](http://www.hopeandhomeke.com) | Interior décor e-commerce · interactive UI/UX · seamless ordering | Django · E-commerce | ![Live](https://img.shields.io/badge/Live-C0392B?style=flat-square&labelColor=F9EAE8&color=C0392B) |
-| [☀️ Soyanala Solar](https://solaryora.pythonanywhere.com/) | Solar product marketplace · browse · compare · purchase | Django · E-commerce | ![Live](https://img.shields.io/badge/Live-C0392B?style=flat-square&labelColor=F9EAE8&color=C0392B) |
-| ⚙️ LEZOL Engineering Platform | Production e-commerce digitising engineering ops end-to-end | Node.js · React | ![Delivered](https://img.shields.io/badge/Delivered-9B5C5A?style=flat-square&labelColor=F9EAE8&color=9B5C5A) |
-
----
-
 <div align="center">
 
 ## 🛠️ Tech Stack
@@ -350,6 +298,7 @@ Delivered practical, hands-on digital and programming skills training over two y
 ![Java](https://img.shields.io/badge/Java-F9EAE8?style=for-the-badge&logo=openjdk&logoColor=C0392B)
 ![C++](https://img.shields.io/badge/C++-F9EAE8?style=for-the-badge&logo=c%2B%2B&logoColor=C0392B)
 ![PHP](https://img.shields.io/badge/PHP-F9EAE8?style=for-the-badge&logo=php&logoColor=C0392B)
+![R](https://img.shields.io/badge/R-F9EAE8?style=for-the-badge&logo=r&logoColor=C0392B)
 
 **Frameworks & Backend**
 
@@ -359,11 +308,12 @@ Delivered practical, hands-on digital and programming skills training over two y
 ![Node.js](https://img.shields.io/badge/Node.js-F9EAE8?style=for-the-badge&logo=nodedotjs&logoColor=C0392B)
 ![FastAPI](https://img.shields.io/badge/FastAPI-F9EAE8?style=for-the-badge&logo=fastapi&logoColor=C0392B)
 ![Express.js](https://img.shields.io/badge/Express.js-F9EAE8?style=for-the-badge&logo=express&logoColor=C0392B)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-F9EAE8?style=for-the-badge&logo=springboot&logoColor=C0392B)
 
-**Databases**
+**Data & Analytics**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-F9EAE8?style=for-the-badge&logo=postgresql&logoColor=C0392B)
 ![MySQL](https://img.shields.io/badge/MySQL-F9EAE8?style=for-the-badge&logo=mysql&logoColor=C0392B)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-F9EAE8?style=for-the-badge&logo=postgresql&logoColor=C0392B)
 ![MongoDB](https://img.shields.io/badge/MongoDB-F9EAE8?style=for-the-badge&logo=mongodb&logoColor=C0392B)
 ![Firebase](https://img.shields.io/badge/Firebase-F9EAE8?style=for-the-badge&logo=firebase&logoColor=C0392B)
 
@@ -401,6 +351,19 @@ Delivered practical, hands-on digital and programming skills training over two y
 
 <div align="center">
 
+## 🎓 Education
+
+</div>
+
+| Qualification | Institution | Detail |
+|:---|:---|:---:|
+| BSc Computer Science | Chuka University | ![GPA](https://img.shields.io/badge/GPA-4.67-F9EAE8?style=flat-square&color=C0392B&labelColor=F9EAE8) |
+| KCSE | Karega Secondary School | ![Grade](https://img.shields.io/badge/Grade-B%2B-F9EAE8?style=flat-square&color=E8837A&labelColor=F9EAE8) |
+
+---
+
+<div align="center">
+
 ## 🏅 Certifications
 
 </div>
@@ -424,14 +387,13 @@ Delivered practical, hands-on digital and programming skills training over two y
 
 ```python
 focus = {
-    "KIRDI Internship" : "IT support, systems admin & digital transformation — Nairobi",
-    "Gudmark Agencies" : "Building professional web platform — Jun 2026",
     "Cybersecurity"    : "Advancing ethical hacking & system security",
     "AI/ML"            : "Deeper neural network architectures & RAG pipelines",
     "Fintech"          : "Scalable Loan Management System (Django + Chart.js)",
     "Quant Finance"    : "Training ML model for forex market prediction",
     "Blockchain"       : "Smart contract architecture & Web3 patterns",
     "Construction ERP" : "Migrating construction system to Java (enterprise scale)",
+    "Freelance"        : "Delivering the Gudmark Agencies platform",
 }
 ```
 
