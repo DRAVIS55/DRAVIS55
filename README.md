@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E8837A,F4A59D,F7C5BF&height=200&section=header&text=Samuel%20Kibunja%20Macharia&fontSize=38&fontColor=3D2B29&fontAlignY=42&desc=Full-Stack%20Software%20Engineer%20%7C%20Field%20Data%20%26%20Systems%20Specialist%20%7C%20Nairobi%2C%20Kenya&descAlignY=65&descSize=13&descFontColor=5C3D3A&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E8837A,F4A59D,F7C5BF&height=200&section=header&text=Samuel%20Kibunja%20Macharia&fontSize=38&fontColor=3D2B29&fontAlignY=42&desc=Computer%20Scientist%20%7C%20Full-Stack%20Software%20Engineer%20%7C%20AI%2FML%20%26%20Data%20Engineer%20%7C%20Nairobi%2C%20Kenya&descAlignY=65&descSize=13&descFontColor=5C3D3A&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=1000&color=C0392B&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer+%7C+Field+Data+%26+Systems+Specialist;Co-Founder+%26+CTO+%40+DravTech+IT+Solutions;Django+%7C+React+%7C+Node.js+%7C+AI%2FML+%7C+Cybersecurity;BSc+Computer+Science+%7C+Chuka+University+%7C+GPA+4.67)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=1000&color=C0392B&center=true&vCenter=true&width=700&lines=Computer+Scientist+%7C+Full-Stack+Software+Engineer;Data+%26+Funnel+Analytics+%7C+AI%2FML+Engineer;Django+%7C+React+%7C+Node.js+%7C+Python+%7C+Systems;BSc+Computer+Science+%7C+Chuka+University+%7C+GPA+4.67)](https://git.io/typing-svg)
 
 <br/>
 
@@ -26,16 +26,16 @@
 
 </div>
 
-Field-oriented technology and data professional with hands-on experience validating SME and beneficiary data for the **Mastercard Jiinue Growth Program** at KEPSA, combined with a full-stack engineering background spanning EdTech, fintech, e-commerce, and civil-society platforms. Co-Founder & CTO of **DravTech IT Solutions**, where I set technical direction and ship AI-assisted, real-time systems. Comfortable owning field verification, stakeholder engagement, data management, and technical delivery end-to-end for institutional, NGO, and private-sector programmes.
+Computer Scientist and full-stack software engineer building across web, data, and AI/ML systems — from constraint-based scheduling engines and real-time platforms to funnel analytics and field-data verification pipelines. Former Co-Founder & CTO of **DravTech IT Solutions**, where I set technical direction and shipped AI-assisted, real-time products used by 500+ people. My experience spans EdTech, fintech, e-commerce, civil-society, and industrial-research settings, including hands-on work validating SME and beneficiary data for the **Mastercard Jiinue Growth Program** at KEPSA.
 
-My engineering work spans the full stack — Django, React, Node.js, and FastAPI on the backend and frontend; PostgreSQL, MySQL, and MongoDB for data; and AI/ML pipelines for scheduling, personalisation, and market prediction. I'm actively advancing in **Cybersecurity & Ethical Hacking**, **Blockchain/Web3**, and **Quantitative Finance**.
+My engineering work spans the full stack — Django, React, Node.js, and FastAPI on the backend and frontend; PostgreSQL, MySQL, and MongoDB for data; and AI/ML pipelines for scheduling, personalisation, and market prediction. I'm currently researching **energy systems**, alongside ongoing work in **Cybersecurity & Ethical Hacking**, **Blockchain/Web3**, and **Quantitative Finance**.
 
 ```
-Role        →  Full-Stack Software Engineer · Field Data & Systems Specialist
-Currently   →  Co-Founder & CTO, DravTech IT Solutions · Freelance Full-Stack Developer
-Education   →  BSc Computer Science · Chuka University · GPA 4.67
-Location    →  Nairobi, Kenya
-Focus       →  Full-Stack · AI/ML · Cybersecurity · Blockchain · Quant Finance
+Roles        →  Computer Scientist · Full-Stack Software Engineer · AI/ML Engineer · Data & Funnel Analytics
+Background   →  Former Co-Founder & CTO, DravTech IT Solutions · Field Data Analyst, KEPSA
+Education    →  BSc Computer Science · Chuka University · GPA 4.67
+Location     →  Nairobi, Kenya
+Focus        →  Full-Stack · AI/ML · Energy Systems · Cybersecurity · Blockchain · Quant Finance
 ```
 
 ---
@@ -387,6 +387,7 @@ Delivered two years of hands-on programming and digital-skills instruction, brid
 
 ```python
 focus = {
+    "Energy"           : "Researching energy systems & data-driven analysis",
     "Cybersecurity"    : "Advancing ethical hacking & system security",
     "AI/ML"            : "Deeper neural network architectures & RAG pipelines",
     "Fintech"          : "Scalable Loan Management System (Django + Chart.js)",
