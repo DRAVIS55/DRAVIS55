@@ -15,9 +15,9 @@
 
 Full-stack engineer based in Nairobi, Kenya, building production web platforms and AI-driven systems for universities, businesses, and NGOs. I take products from architecture to deployment: backend APIs, responsive frontends, payments, and the infrastructure that keeps them running.
 
-- **Full-stack:** Django, Node.js, FastAPI, React, TypeScript
+- **Full-stack:** Django, Node.js, FastAPI, Spring Boot, Laravel, React, TypeScript
 - **AI systems:** constraint-based scheduling, NLP/RAG pipelines, ML-driven personalisation
-- **Web & mobile:** responsive, mobile-first products with M-Pesa, PayPal, and card payments
+- **Web & mobile:** React, React Native (Expo), and Electron, with M-Pesa, PayPal, and card payments
 - **Education:** BSc Computer Science, Chuka University (GPA 4.67)
 
 ---
@@ -36,8 +36,6 @@ AI-powered scheduling engine deployed in production at Chuka University, where I
 | Manual workload eliminated | **~95%** |
 
 `Django` `Python` `Constraint Solving` `WebSocket` `RBAC`
-
-[Live demo](https://chukauniversitytimetabling.pythonanywhere.com/)
 
 ---
 
@@ -62,9 +60,9 @@ AI-powered scheduling engine deployed in production at Chuka University, where I
 
 | Project | What it does | Stack |
 |:---|:---|:---|
-| [Soyanala Solar](https://solaryora.pythonanywhere.com/) | Solar product marketplace: browse, compare, purchase | Django · E-commerce |
-| [Grassroot Development Kenya](https://glassgrow.pythonanywhere.com/) | NGO platform with M-Pesa, PayPal, card, and Sui blockchain donations | Django · Payments |
-| [RayVision Technologies](https://www.rayvisiontechnologies.com/) | Electronics e-commerce platform with inventory, payments, and admin dashboards | Django · React |
+| Soyanala Solar | Solar product marketplace: browse, compare, purchase | Django · E-commerce |
+| Grassroot Development Kenya | NGO platform with M-Pesa, PayPal, card, and Sui blockchain donations | Django · Payments |
+| RayVision Technologies | Electronics e-commerce platform with inventory, payments, and admin dashboards | Django · React |
 | Trinity Cycle Mart | Procurement, inventory, sales, and e-commerce in one synchronised system | Django · React · TypeScript |
 | Hope & HomeKe · LEZOL Engineering | Production e-commerce platforms for a décor brand and an engineering business | Django · Node.js · React |
 
@@ -72,30 +70,49 @@ AI-powered scheduling engine deployed in production at Chuka University, where I
 
 | Project | What it does | Stack |
 |:---|:---|:---|
-| [NewsHub KE](https://newshubke.pythonanywhere.com/) | AI news aggregation, story linking, summaries, ML personalisation | React · Django · AI |
+| NewsHub KE | AI news aggregation, story linking, summaries, ML personalisation | React · Django · AI |
 | [Ubuntu News Intelligence](https://github.com/DRAVIS55/Ubuntu-News-Intelligence) | African news intelligence with RAG, semantic search, and trend detection | Python · NLP · RAG |
-| [Attachment Assistant](https://dravtechattachmentassistant.pythonanywhere.com/) | Daily-scraped internships, AI curation, profile matching | Django · Scraping · AI |
+| Attachment Assistant | Daily-scraped internships, AI curation, profile matching | Django · Scraping · AI |
 | [AI Patient Triage](https://github.com/DRAVIS55/Care_me_AI_model_V1) | Predicts emergency urgency levels from patient data | Python · ML |
 
 ### Web & Mobile Products
 
 | Project | What it does | Stack |
 |:---|:---|:---|
-| [MultApp, Campus Super App](https://samuelkibunja.pythonanywhere.com/) | Timetables, exams, notes, and campus services in one mobile-first app | Django · JS · REST |
-| [UniChat](https://samuelkibunja.pythonanywhere.com/chat/) | Real-time messaging with groups, polls, and document sharing | Django · WebSocket |
+| MultApp, Campus Super App | Timetables, exams, notes, and campus services in one mobile-first app | Django · JS · REST |
+| UniChat | Real-time messaging with groups, polls, and document sharing | Django · WebSocket |
 | [SACCO Management System](https://github.com/DRAVIS55/django-react-sacco-system) | Loan processing, repayment tracking, automated reminders, analytics | Django · MySQL · React |
 
 ---
 
 ## Tech Stack
 
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-F9EAE8?style=for-the-badge&logo=python&logoColor=C0392B)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F9EAE8?style=for-the-badge&logo=javascript&logoColor=C0392B)
 ![TypeScript](https://img.shields.io/badge/TypeScript-F9EAE8?style=for-the-badge&logo=typescript&logoColor=C0392B)
+![Java](https://img.shields.io/badge/Java-F9EAE8?style=for-the-badge&logo=openjdk&logoColor=C0392B)
+![PHP](https://img.shields.io/badge/PHP-F9EAE8?style=for-the-badge&logo=php&logoColor=C0392B)
+
+**Backend**
+
 ![Django](https://img.shields.io/badge/Django-F9EAE8?style=for-the-badge&logo=django&logoColor=C0392B)
 ![FastAPI](https://img.shields.io/badge/FastAPI-F9EAE8?style=for-the-badge&logo=fastapi&logoColor=C0392B)
 ![Node.js](https://img.shields.io/badge/Node.js-F9EAE8?style=for-the-badge&logo=nodedotjs&logoColor=C0392B)
+![Express](https://img.shields.io/badge/Express.js-F9EAE8?style=for-the-badge&logo=express&logoColor=C0392B)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-F9EAE8?style=for-the-badge&logo=springboot&logoColor=C0392B)
+![Laravel](https://img.shields.io/badge/Laravel-F9EAE8?style=for-the-badge&logo=laravel&logoColor=C0392B)
+
+**Frontend, Mobile & Desktop**
+
 ![React](https://img.shields.io/badge/React-F9EAE8?style=for-the-badge&logo=react&logoColor=C0392B)
+![React Native](https://img.shields.io/badge/React%20Native-F9EAE8?style=for-the-badge&logo=react&logoColor=C0392B)
+![Expo](https://img.shields.io/badge/Expo-F9EAE8?style=for-the-badge&logo=expo&logoColor=C0392B)
+![Electron](https://img.shields.io/badge/Electron-F9EAE8?style=for-the-badge&logo=electron&logoColor=C0392B)
+
+**Data & Infrastructure**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-F9EAE8?style=for-the-badge&logo=postgresql&logoColor=C0392B)
 ![MySQL](https://img.shields.io/badge/MySQL-F9EAE8?style=for-the-badge&logo=mysql&logoColor=C0392B)
 ![Docker](https://img.shields.io/badge/Docker-F9EAE8?style=for-the-badge&logo=docker&logoColor=C0392B)
