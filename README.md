@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E8837A,F4A59D,F7C5BF&height=200&section=header&text=Samuel%20Kibunja%20Macharia&fontSize=38&fontColor=3D2B29&fontAlignY=42&desc=Full-Stack%20Engineer%20%7C%20AI%20Systems%20%7C%20Web%20%26%20Mobile&descAlignY=65&descSize=16&descFontColor=5C3D3A&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E8837A,F4A59D,F7C5BF&height=200&section=header&text=Samuel%20Kibunja%20Macharia&fontSize=38&fontColor=3D2B29&fontAlignY=42&desc=Full-Stack%20Engineer%20%7C%20AI%20Systems%20%7C%20Web%2C%20Mobile%20%26%20Desktop&descAlignY=65&descSize=16&descFontColor=5C3D3A&animation=fadeIn" width="100%"/>
 
 [![GitHub followers](https://img.shields.io/github/followers/DRAVIS55?label=Follow&style=for-the-badge&color=C0392B&labelColor=F9EAE8&logo=github&logoColor=C0392B)](https://github.com/DRAVIS55)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-C0392B?style=for-the-badge&logo=linkedin&logoColor=C0392B&labelColor=F9EAE8)](https://www.linkedin.com/in/samuelkibunja/)
@@ -17,7 +17,7 @@ Full-stack engineer based in Nairobi, Kenya, building production web platforms a
 
 - **Full-stack:** Django, Node.js, FastAPI, Spring Boot, Laravel, React, TypeScript
 - **AI systems:** constraint-based scheduling, NLP/RAG pipelines, ML-driven personalisation
-- **Web & mobile:** React, React Native (Expo), and Electron, with M-Pesa, PayPal, and card payments
+- **Web, mobile & desktop:** React, React Native (Expo), and Electron, with M-Pesa, PayPal, and card payments
 - **Education:** BSc Computer Science, Chuka University (GPA 4.67)
 
 ---
@@ -75,7 +75,7 @@ AI-powered scheduling engine deployed in production at Chuka University, where I
 | Attachment Assistant | Daily-scraped internships, AI curation, profile matching | Django · Scraping · AI |
 | [AI Patient Triage](https://github.com/DRAVIS55/Care_me_AI_model_V1) | Predicts emergency urgency levels from patient data | Python · ML |
 
-### Web & Mobile Products
+### Web, Mobile & Desktop Products
 
 | Project | What it does | Stack |
 |:---|:---|:---|
